@@ -56,7 +56,7 @@ Everything else is standard Laravel Breeze scaffolding for authentication.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/laravel-ai-sdk-chat.git
+git clone https://github.com/MujahidAbbas/laravel-ai-sdk-chat.git
 cd laravel-ai-sdk-chat
 
 # Install PHP dependencies
